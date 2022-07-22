@@ -1,0 +1,21 @@
+@media(max-width: 991px){
+    .principal .menu-navbar-nv{
+        text-align: center;
+        background-color: lightcoral;
+    }
+    .cdg{
+        text-align: center;
+    }
+    .container img{
+        text-align: center;
+        margin-top: 10%;
+    }
+    .container .boton1{
+        text-align: center;
+    }
+    /* contacto */
+    .contacto1  {
+        text-align: left;
+        
+    }
+}
